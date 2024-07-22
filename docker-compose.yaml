@@ -1,0 +1,6 @@
+version: '3'
+services:
+  icanhazip-clone:
+    image: thejordanprice/icanhazip-clone
+    ports:
+      - "80:80"
