@@ -1,5 +1,7 @@
 # icanhazip-clone
 
+[![Build, Test, and Push Docker Image](https://github.com/thejordanprice/icanhazip-clone/actions/workflows/docker-image.yml/badge.svg)](https://github.com/thejordanprice/icanhazip-clone/actions/workflows/docker-image.yml)
+
 A simple Flask-based web application that returns the client's IP address in plain text, mimicking the functionality of icanhazip.com. Easily deployable with Docker.
 
 ## Getting Started
